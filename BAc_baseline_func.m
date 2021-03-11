@@ -3,12 +3,11 @@
 % [bl, bp] = BAc_baseline_func(x, y, w, in_p);
 % 
 %
-% INPUT:						
-% x	Independent data for analysis
-% y	Dependent data for analysis
-% w	Weights to be used on baseline (optional)
+% x		Independent data for analysis
+% y		Dependent data for analysis
+% w		Weights to be used on baseline (optional)
 % in_p	Initial regression parameters  (optional) 
-% 	(2x2 matrix, [x(1), y(1) ; x(2), y(2)])
+% 		(2x2 matrix, [x(1), y(1) ; x(2), y(2)])
 %
 % OUTPUT:
 % bl	Calculated baseline

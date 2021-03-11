@@ -3,16 +3,16 @@
 % [r, c, d] = BAc_treat_func(x, y, v, w);
 %
 % INPUT:
-% x	Independent data for analysis (Base Potential)
-% y	Dependent data for analysis (dCurrent)
-% v	Index of variables to be used (optional)
-% w	Weights to be used on baseline (see BAc_baseline_func for further information) (optional)
+% x		Independent data for analysis (Base Potential)
+% y		Dependent data for analysis (dCurrent)
+% v		Index of variables to be used (optional)
+% w		Weights to be used on baseline (see BAc_baseline_func for further information) (optional)
 % 
 % OUTPUT:
-% r	For one argument, peak heights
-% 	For more, vector of fitting parameters (see variable desc)
+% r		For one argument, peak heights
+% 		For more, vector of fitting parameters (see variable desc)
 % 							
-% c	A matrix with calculated x and y data (see variable desc)
+% c		A matrix with calculated x and y data (see variable desc)
 %	
 % desc	A text cell array describing variables
 

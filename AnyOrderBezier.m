@@ -5,7 +5,7 @@
 %
 %	bz		Matrix of calculated data from points
 %
-%	coef		Matrix containing Coefficients of the curve
+%	coef	Matrix containing Coefficients of the curve
 %			The number of rows is the Bezier curve order
 %			and the number of columns is the dimension
 %			in which the curve was constructed
